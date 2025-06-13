@@ -1,2 +1,3 @@
 # Project-B
-Game App related to steps
+RPG Игра связанная с шагами
+
